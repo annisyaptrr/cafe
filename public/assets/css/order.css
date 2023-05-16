@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+*{
+    color: var(--main-color);
+    background-color: #fff;
+    font-family: 'poppins', sans-serif;
+}
+:root {
+    --main-color: #ff702a;
+    --text-color:#fff;
+    --bg-color:#1e1c2a;
+}
+.form{
+   font-size: 100px; 
+   text-align: justify;
+   background-color: var(--text-color);
+}
+.table{
+    align-self: center;
+
+}
+.td{
+    font-weight: bold;
+}
+.input{
+    font-weight: bold;
+}
+.btn{
+    width: 300px;
+}
